@@ -1,10 +1,6 @@
-### Hi there! Michael here... 👋
+### About me:
 
- <div>
-  <a href="https://github.com/canesche">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=canesche&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canesche&layout=compact&langs_count=7&theme=dark"/>
-</div>
+I am a PhD researcher in compiler optimization for machine learning systems. My work focuses on graph-level transformations and developing new heuristics for the fusion problem in neural network computational graphs, aiming to reduce memory movement and improve performance across heterogeneous architectures. I work with modern compiler infrastructures such as Google XLA, Apache TVM, and MLIR/LLVM, exploring tiling, bufferization, and hardware-aware optimizations. My research bridges compiler design and High-Level Synthesis (HLS), contributing to more efficient, memory-conscious compilation pipelines for deep learning workloads.
   
 <div> 
   <a href = "mailto:michael.canesche@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
